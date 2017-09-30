@@ -48,4 +48,9 @@
   (pad 10 thru_hole oval (at 10.16 -2.54) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 11 thru_hole oval (at 12.7 0) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 12 thru_hole oval (at 12.7 -2.54) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connectors_IDC.3dshapes/IDC-Header_2x06_Pitch2.54mm_Straight.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
