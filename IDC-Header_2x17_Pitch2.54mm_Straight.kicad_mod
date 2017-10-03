@@ -70,4 +70,9 @@
   (pad 32 thru_hole oval (at 38.1 -2.54) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 33 thru_hole oval (at 40.64 0) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 34 thru_hole oval (at 40.64 -2.54) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connectors_IDC.3dshapes/IDC-Header_2x17_Pitch2.54mm_Straight.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

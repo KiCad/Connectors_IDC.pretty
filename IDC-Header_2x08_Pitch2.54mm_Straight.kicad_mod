@@ -52,4 +52,9 @@
   (pad 14 thru_hole oval (at 15.24 -2.54) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 17.78 0) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
   (pad 16 thru_hole oval (at 17.78 -2.54) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Connectors_IDC.3dshapes/IDC-Header_2x08_Pitch2.54mm_Straight.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
